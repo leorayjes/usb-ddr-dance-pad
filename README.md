@@ -1,4 +1,4 @@
-# DIY DDR/StepMani Pad
+# DIY DDR/StepMania Pad
 
 ## Measurements:
 
