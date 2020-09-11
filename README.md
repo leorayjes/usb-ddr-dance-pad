@@ -94,6 +94,7 @@
     - WEAR A MASK. The particulates from this are intense; you don&#39;t want to breathe this stuff.
 - Adhesive backed Vinyl (_not_ static cling) is very difficult to place (for me) and you only have 1 shot. Failure to place an arrow correctly will result in you having to recut a piece of Poly as most anything that will remove adhesive with dissolve/craze the surface of poly
 - I used polycarbonate because I was afraid of cracking acrylic due to the nature of dancing games and my clumsy stomping. That being said, acrylic would likely work just fine.
+- I would recommend recessing your arrows slightly (i.e.: make the button panel thinner than the base panels around it)
 - I would recommend playing with shoes due to the edges of the Polycarbonate as well as the screws
 - The project is still lacking a 3D printed enclosure for the Leonardo.
 
