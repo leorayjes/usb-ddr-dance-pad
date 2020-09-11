@@ -37,8 +37,8 @@
 - Individual Panels
   - 11&quot;x11&quot;
     - Need 9 of each material
-      - 5 ¾&quot; thickness
-      - 4 ½&quot; thickness 
+      - 5 of ¾&quot; thickness
+      - 4 of ½&quot; thickness 
   - MDF
   - Polycarbonate
 - Panel Perimeter
