@@ -25,6 +25,7 @@
   - I used ½&quot;
 - Black semigloss paint
 - Spray Adhesive
+- Wood glue
 
 ## Measurements:
 - Panel Base
@@ -75,6 +76,8 @@
   - You don&#39;t have to sink your screws, it just looks a little nicer and saves your toes.
 - Clamps
   - You will need N +1 where N is the number that you currently have
+- Aircompressor and bradnailer
+  - This isn't completely necessary, I just wanted to assemble faster than the glue would dry
 
 ## Notes:
 - The Arduino code was written by Alex from Super Make Something
