@@ -26,15 +26,19 @@
 - Black semigloss paint
 - Spray Adhesive
 - Wood glue
+- Brad nails
+- Solder
 
 ## Measurements:
 - Panel Base
   - 34&quot;x34&quot;
     - Need 1
-  - MDF
+  - ¾&quot; MDF
 - Individual Panels
   - 11&quot;x11&quot;
     - Need 9 of each material
+      - 5 ¾&quot; thickness
+      - 4 ½&quot; thickness 
   - MDF
   - Polycarbonate
 - Panel Perimeter
@@ -42,7 +46,7 @@
     - Need 4
   - 1&quot;x34&quot; and 1&quot;x32&quot; – Box fit (flat)
     - Need 2 of each
-  - MDF
+  - ¾&quot; MDF
 - Panel Risers
   - 9&quot;x9&quot;
     - Need 4 of each material
@@ -78,6 +82,8 @@
   - You will need N +1 where N is the number that you currently have
 - Aircompressor and bradnailer
   - This isn't completely necessary, I just wanted to assemble faster than the glue would dry
+- Soldering iron and solder
+  - Not inherently necessary but makes a stronger connection
 
 ## Notes:
 - The Arduino code was written by Alex from Super Make Something
