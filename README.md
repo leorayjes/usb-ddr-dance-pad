@@ -51,7 +51,7 @@
 - Circuits
   - 9&quot;x9&quot; flat square
     - Need 4 for button contact
-  - For riser panel circuitry, follow [8x8\_contact\_panel.pdf](https://github.com/leorayjes/usb-ddr-dance-pad/blob/master/8x8_contact_panel.pdf)
+  - For riser panel circuitry, follow [8x8\_contact\_panel.pdf](https://github.com/leorayjes/usb-ddr-dance-pad/blob/master/graphics/pdf/8x8_contact_panel.pdf)
   - Copper Tape _or_ paper-backed aluminum foil
 - Arrow graphics
   - 34&quot;x34&quot; – if printing all at once
@@ -61,8 +61,8 @@
     - This will give you enough for 2 pads
   - 11&quot;x11&quot; – if printing individual arrows
     - Need 4
-    - [Use blue\_arrow\_single.pdf](https://github.com/leorayjes/usb-ddr-dance-pad/blob/master/blue_arrow_single.pdf)
-    - [Use red\_arrow\_single\_no\_border.pdf](https://github.com/leorayjes/usb-ddr-dance-pad/blob/master/red_arrow_single_no_border.pdf)
+    - [Use blue\_arrow\_single.pdf](https://github.com/leorayjes/usb-ddr-dance-pad/blob/master/graphics/pdf/blue_arrow_single.pdf)
+    - [Use red\_arrow\_single\_no\_border.pdf](https://github.com/leorayjes/usb-ddr-dance-pad/blob/master/graphics/pdf/red_arrow_single_no_border.pdf)
   - Vinyl _or_ paper
 
 ## Tools Used:
