@@ -108,7 +108,7 @@
 
 ## Resources:
 
-- Everything you need
+- Everything you need - You are here!
   - [https://github.com/leorayjes/usb-ddr-dance-pad](https://github.com/leorayjes/usb-ddr-dance-pad)
   - Eps file for graphic - [https://drive.google.com/file/d/1Ho9Ss0-xzzeFMXIAYueZQqeo9CPXzv1s/view?usp=sharing](https://drive.google.com/file/d/1Ho9Ss0-xzzeFMXIAYueZQqeo9CPXzv1s/view?usp=sharing)
 - Graphics
