@@ -84,7 +84,9 @@
   - This isn't completely necessary, I just wanted to assemble faster than the glue would dry
 - Soldering iron and solder
   - Not inherently necessary but makes a stronger connection
-
+- Sandpaper or a cabinet scraper
+  - Not necessary but will aid in fixing imperfections
+ 
 ## Notes:
 - The Arduino code was written by Alex from Super Make Something
 - The Graphics are pulled from HackMyCab
@@ -110,6 +112,7 @@
 - Stranded wire is better than solid
 - The height of the step panels (buttons) was somewhat of a guess game so I would be more meticulous in future builds.
 - I should have used an edge finisher or at least sanded the edges of the Polycarbonate as it is quite sharp
+- The pad would benefit from shelving liner or any other method of adding grip to keep it from sliding.
 
 ## Resources:
 - Everything you need - You are here!
