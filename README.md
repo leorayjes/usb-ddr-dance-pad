@@ -4,7 +4,7 @@
 - 4&#39;x8&#39; sheet of ¾&quot; MDF
 - 2&#39;x4&#39; sheet of ½&quot; MDF
 - 2&#39;x4&#39; sheet of ¼&quot; plywood
-- 2&#39;x4&#39; sheet of 1/8&quot; plywood
+- 2&#39;x4&#39; sheet of 1/8&quot; hardboard
 - 4&#39;x8&#39; sheet of 4.5mm (.17&quot;) Polycarbonate
   - Acrylic is a much cheaper alternative
 - 33&#39; Roll of copper tape
